@@ -8,10 +8,7 @@ import json
 
 
 ###API ########################
-ckey = "IP59RUVsARhC6e2DFCzLVOySI"
-csecret = "AzXNZwJlLzffQq594VeiKPtm1NTd7zlgDGIMQaj9CRZdazKG4y"
-atoken = "1415810816264347658-UBlBSxAL25iujJqJaiULgSKC94xHzQ"
-asecret = "TgfinkDMF98pJVohQBJW7mOxMPpM0bBwIgJXMO1Lm9Lbx"
+
 #####################################
 
 class listener(StreamListener):
